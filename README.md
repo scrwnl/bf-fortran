@@ -1,2 +1,2 @@
 # bf-fortran
-Brainf**k Interpreter implemented by Fortran
+A Brainf**k Interpreter implemented by Fortran
